@@ -69,6 +69,11 @@ Video tabanlı içerik sunumu, responsive arayüz, yönetilebilir içerik ve yer
 
 Mobilya sektörü için marka ve ürün sunumuna odaklanan responsive kurumsal web tasarım projesi.
 
+### 🛋️ [Farklı Mobilya](https://github.com/bensefa/farklimobilya)
+**Canlı:** https://farklimobilya.com.tr/
+
+Mobilya sektörü için modern, responsive, ürün ve hizmet sunumu, kullanılabilirlik, SEO ve performans odaklı kurumsal web projesi.
+
 ## 💻 Teknolojiler
 
 `PHP` · `MySQL` · `Java` · `HTML5` · `CSS3` · `JavaScript` · `Responsive Design` · `PWA` · `Technical SEO` · `Schema.org` · `AI/LLM Optimization`
