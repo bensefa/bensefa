@@ -1,3 +1,5 @@
+<img src="./banner.png" alt="Nubar Sefa Yılmaz - Web Developer, Java Developer, Webmaster" width="100%">
+
 # Nubar Sefa Yılmaz
 
 ### Web Developer • Java Developer • Webmaster • Network & DC Systems • Digital Projects
