@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Nubar Sefa Yılmaz - Web Developer, Java Developer, Webmaster" width="100%">
+<img src="./banner (1).webp" alt="Nubar Sefa Yılmaz - Web Developer, Java Developer, Webmaster" width="100%">
 
 # Nubar Sefa Yılmaz
 
