@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bensefa/bensefa/main/cv-banner.webp?v=20261004-1938" alt="Nubar Sefa Yılmaz - Web Developer, Java Developer, Webmaster" width="100%">
+<img src="./cv-banner-final.png" alt="Nubar Sefa Yılmaz - Web Developer, Java Developer, Webmaster" width="100%">
 
 # Nubar Sefa Yılmaz
 
