@@ -1,3 +1,4 @@
+<img width="2089" height="753" alt="cv-banner-sevgi" src="https://github.com/user-attachments/assets/8af79ed1-91ef-424c-9fe7-bc4673631ce8" />
 <img src="./cv-banner-sevgi.png" alt="Nubar Sefa Yılmaz - Web Developer, Java Developer, Webmaster" width="100%">
 
 # Nubar Sefa Yılmaz
