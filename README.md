@@ -34,6 +34,11 @@ Web geliştirme, yazılım, sistem ve dijital projeler üzerinde çalışan çok
 
 ## 🚀 Öne Çıkan Projeler
 
+### 📱 [Akıllı Galeri](https://github.com/bensefa/akilli-galeri)
+**Durum:** Aktif geliştirme · Android / Kotlin
+
+Yapay zekâ destekli Android fotoğraf galerisi. Doğal dille görsel arama, nesne, yüz ve metin tanıma, akıllı fotoğraf yönetimi ve yerel analiz özellikleri üzerine geliştirilmektedir. Proje deposu tanıtım amaçlıdır; kaynak kodu ve yapay zekâ modelleri paylaşılmamaktadır.
+
 ### 🌱 [ŞeffafPazar](https://github.com/bensefa/seffafpazar)
 **Canlı:** https://seffafpazar.com/
 
