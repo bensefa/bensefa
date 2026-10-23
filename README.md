@@ -34,11 +34,6 @@ Web geliştirme, yazılım, sistem ve dijital projeler üzerinde çalışan çok
 
 ## 🚀 Öne Çıkan Projeler
 
-### 🏗️ [Bifbau](https://bifbau.de/)
-**Web sitesi:** https://bifbau.de/
-
-Çok dilli, uluslararası faaliyet gösteren kurumsal firma web sitesi. Farklı ülkelerden ziyaretçilere yönelik kurumsal tanıtım, hizmet sunumu ve erişilebilir web deneyimi için tasarlanan proje.
-
 ### 📱 [Akıllı Galeri](https://github.com/bensefa/akilli-galeri)
 **Durum:** Aktif geliştirme · Android / Kotlin
 
@@ -48,6 +43,11 @@ Yapay zekâ destekli Android fotoğraf galerisi. Doğal dille görsel arama, nes
 **Canlı:** https://seffafpazar.com/
 
 Türkiye'deki üreticiler ile alıcıları buluşturan dijital pazar platformu. Üretici/alıcı üyelik sistemi, özel yönetim panelleri, ürün onay süreçleri, mesajlaşma, üretici doğrulama, Türkiye haritası, PWA, SEO, Schema ve AI/LLM keşfedilebilirlik altyapısı.
+
+### 🏗️ [Bifbau](https://bifbau.de/)
+**Web sitesi:** https://bifbau.de/
+
+Çok dilli, uluslararası faaliyet gösteren kurumsal firma web sitesi. Farklı ülkelerden ziyaretçilere yönelik kurumsal tanıtım, hizmet sunumu ve erişilebilir web deneyimi için tasarlanan proje.
 
 ### ✒️ [VanKaligrafi](https://github.com/bensefa/vankaligrafi)
 **Canlı:** https://vankaligrafi.com/
