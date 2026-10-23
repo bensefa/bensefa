@@ -34,6 +34,11 @@ Web geliştirme, yazılım, sistem ve dijital projeler üzerinde çalışan çok
 
 ## 🚀 Öne Çıkan Projeler
 
+### 🏗️ [Bifbau](https://bifbau.de/)
+**Web sitesi:** https://bifbau.de/
+
+Çok dilli, uluslararası faaliyet gösteren kurumsal firma web sitesi. Farklı ülkelerden ziyaretçilere yönelik kurumsal tanıtım, hizmet sunumu ve erişilebilir web deneyimi için tasarlanan proje.
+
 ### 📱 [Akıllı Galeri](https://github.com/bensefa/akilli-galeri)
 **Durum:** Aktif geliştirme · Android / Kotlin
 
