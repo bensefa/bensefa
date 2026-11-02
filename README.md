@@ -49,7 +49,7 @@ Türkiye'deki üreticiler ile alıcıları buluşturan dijital pazar platformu. 
 
 Çok dilli, uluslararası faaliyet gösteren kurumsal firma web sitesi. Farklı ülkelerden ziyaretçilere yönelik kurumsal tanıtım, hizmet sunumu ve erişilebilir web deneyimi için tasarlanan proje.
 
-### ⚽ [Ekşi Futbol](https://eksifutbol.com/)
+### ⚽ [Ekşi Futbol](https://github.com/bensefa/eksifutbol)
 **Canlı:** https://eksifutbol.com/
 
 Futbol odaklı topluluk ve sözlük akışı. Başlıklar altında yorumlar, üye profilleri, takip ve favori özellikleri, yönetici içerik denetimi, paylaşım bağlantıları, mobil uyumlu tasarım ve PWA altyapısı.
