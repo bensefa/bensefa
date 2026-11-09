@@ -49,6 +49,11 @@ Türkiye'deki üreticiler ile alıcıları buluşturan dijital pazar platformu. 
 
 Samsun’daki mimari tasarım, iç mimari ve doğal ahşap/mobilya uygulamalarını tanıtan kurumsal web projesi. Ürün kataloğu, mobilya hizmet sayfaları, PWA ve yerel SEO çalışmaları. Depo tanıtım amaçlıdır; kaynak kodu ve yönetim paneli paylaşılmamaktadır.
 
+### 📋 [İş Takibi - Hatırlatıcı](https://github.com/bensefa/is-takibi-hatirlatici)
+**Durum:** Kapalı test · Android
+
+İş ve notları kişi/kurumla ilişkilendirerek tarih, erken hatırlatma, iş durumu ve tahsilat bilgileriyle takip etmeye yönelik Android uygulaması. Çoklu dil, aylık raporlar, geri dönüşüm kutusu ve isteğe bağlı reklam izleyerek destek olma seçeneği içerir. Depo tanıtım amaçlıdır; kaynak kodu ve imzalama anahtarları paylaşılmamaktadır.
+
 ### 🏗️ [Bifbau](https://github.com/bensefa/bifbau)
 **Canlı:** https://bifbau.de/
 
