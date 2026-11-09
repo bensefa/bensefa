@@ -44,6 +44,11 @@ Yapay zekâ destekli Android fotoğraf galerisi. Doğal dille görsel arama, nes
 
 Türkiye'deki üreticiler ile alıcıları buluşturan dijital pazar platformu. Üretici/alıcı üyelik sistemi, özel yönetim panelleri, ürün onay süreçleri, mesajlaşma, üretici doğrulama, Türkiye haritası, PWA, SEO, Schema ve AI/LLM keşfedilebilirlik altyapısı.
 
+### 🪑 [Samsun Mobilya](https://github.com/bensefa/samsun-mobilya)
+**Canlı:** https://samsunmobilya.tr/
+
+Samsun’daki mimari tasarım, iç mimari ve doğal ahşap/mobilya uygulamalarını tanıtan kurumsal web projesi. Ürün kataloğu, mobilya hizmet sayfaları, PWA ve yerel SEO çalışmaları. Depo tanıtım amaçlıdır; kaynak kodu ve yönetim paneli paylaşılmamaktadır.
+
 ### 🏗️ [Bifbau](https://github.com/bensefa/bifbau)
 **Canlı:** https://bifbau.de/
 
