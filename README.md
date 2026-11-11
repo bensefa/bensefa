@@ -99,32 +99,32 @@ Mobilya sektörü için marka ve ürün sunumuna odaklanan responsive kurumsal w
 
 Mobilya sektörü için modern, responsive, ürün ve hizmet sunumu, kullanılabilirlik, SEO ve performans odaklı kurumsal web projesi.
 
-### 🌐 [VanWebsite Dijital Ajans](https://vanwebsite.tr/)
+### 🌐 [VanWebsite Dijital Ajans](https://github.com/bensefa/vanwebsite)
 **Canlı:** https://vanwebsite.tr/
 
 Web tasarım, dijital ajans hizmetleri ve özel mobil uygulama geliştirme hizmetlerini tanıtan kurumsal site. Paket seçici, hizmet sayfaları ve teklif yönlendirmeleri içerir.
 
-### 📺 [Van Ekran Tamiri](https://vanekrantamiri.tr/)
+### 📺 [Van Ekran Tamiri](https://github.com/bensefa/vanekrantamiri)
 **Canlı:** https://vanekrantamiri.tr/
 
 Telefon, televizyon, bilgisayar ve tablet ekran tamiri hizmetleri için cihaz ve hizmet odaklı sayfalar, mobil uyumlu tasarım ve yerel SEO altyapısı.
 
-### ⚡ [Van Elektrikçi](https://vanelektrikci.tr/)
+### ⚡ [Van Elektrikçi](https://github.com/bensefa/vanelektrikci)
 **Canlı:** https://vanelektrikci.tr/
 
 Elektrik, otomasyon, PLC, motor sürücü, CNC ve lazer hizmetlerini tanıtan; hizmet sayfaları ve Van odaklı yerel SEO içeren kurumsal web sitesi.
 
-### 🧹 [Van Temizlik](https://vantemizlik.tr/)
+### 🧹 [Van Temizlik](https://github.com/bensefa/vantemizlik)
 **Canlı:** https://vantemizlik.tr/
 
 Van’daki temizlik hizmetlerini tanıtan, mobil uyumlu ve yerel aramalara yönelik içeriklerle hazırlanan kurumsal web sitesi.
 
-### 💐 [Van Çiçekçi](https://vancicekci.tr/)
+### 💐 [Van Çiçekçi](https://github.com/bensefa/vancicekci)
 **Canlı:** https://vancicekci.tr/
 
 Çiçek ürün ve seçeneklerini tanıtan, siparişi telefon üzerinden alan ve WhatsApp iletişim bağlantıları içeren yerel işletme sitesi.
 
-### 🧺 [Yalçınkaya Halı Yıkama](https://yalcinkayahaliyikama.com/)
+### 🧺 [Yalçınkaya Halı Yıkama](https://github.com/bensefa/yalcinkayahaliyikama)
 **Canlı:** https://yalcinkayahaliyikama.com/
 
 Halı yıkama hizmetlerini tanıtan, mobil uyumlu kurumsal site. Teknik SEO ve reklam uyumluluğu için düzenlenmiştir.
